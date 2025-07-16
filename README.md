@@ -1,10 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
 [![Hitsukaya](https://img.shields.io/badge/Hitsukaya-red)](https://hitsukaya.com)
+[![PageSpeed Score](https://img.shields.io/badge/PageSpeed-100%25-brightgreen)](https://pagespeed.web.dev/)
 [![Laravel](https://img.shields.io/badge/Laravel-12-red)](https://laravel.com/)
 [![Livewire](https://img.shields.io/badge/Livewire-3-blueviolet)](https://livewire.laravel.com/)
-</p>
 
 ## About Laravel
 
